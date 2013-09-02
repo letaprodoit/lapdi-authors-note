@@ -4,15 +4,15 @@ Donate link: http://www.thesoftwarepeople.com/software/plugins/wordpress/authors
 Tags: author, note, after-thought, afterword, the software people
 Requires at least: 3.5.1
 Tested up to: 3.6
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: Apache v2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
-Author's Note allows you to add your author's notes and after-thoughts to your blog posts.
+Author's Note allows you to add author's notes and after-thoughts to your blog posts and pages.
 
 == Description ==
 
-The Software People's (TSP) Author's Note allows you to add your author's notes and after-thoughts to your blog posts.
+The Software People's (TSP) Author's Note allows you to add author's notes and after-thoughts to your blog posts and pages.
 
 = Features Included =
 
