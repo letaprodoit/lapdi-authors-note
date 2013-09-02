@@ -1,0 +1,36 @@
+.tsp_authors_note .left{
+	float: left;
+}
+.tsp_authors_note .right{
+    float: right;
+}
+.tsp_authors_note .clear{
+    clear: both;
+    height: 0px;
+}
+.tsp_authors_note .meta div{
+    padding-bottom: 3px;
+}
+.tsp_authors_note .links div{
+	width: 24px;
+	height: 24px;
+	padding-right: 4px;
+}
+.tsp_authors_note #aim{
+	background: transparent url('images/aim.png') no-repeat;
+	background-size: 100% !important;
+}
+.tsp_authors_note #yim{
+    background: transparent url('images/yim.png') no-repeat;
+    background-size: 100% !important;
+}
+.tsp_authors_note #jabber{
+    background: transparent url('images/jabber.png') no-repeat;
+    background-size: 100% !important;
+}
+.tsp_authors_note .photo img{
+	display: inline;
+	float: left;
+	clear: left;
+	margin-right: 10px;	
+}
