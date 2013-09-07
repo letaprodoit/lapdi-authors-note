@@ -14,6 +14,9 @@ Author's Note allows you to add author's notes and after-thoughts to your blog p
 
 The Software People's (TSP) Author's Note allows you to add author's notes and after-thoughts to your blog posts and pages.
 
+= Requirements =
+Requires the installation and activation of [TSP Easy Dev Latest Version](http://wordpress.org/plugins/tsp-easy-dev)
+
 = Features Included =
 
 * Add an author's note or after-thought to your pages and/or posts
