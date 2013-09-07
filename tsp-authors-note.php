@@ -5,7 +5,7 @@ Plugin URI: 	http://www.thesoftwarepeople.com/software/plugins/wordpress/authors
 Description: 	Author's Note allows you to <strong>add author's notes and afterthoughts</strong> to your blog posts and pages. Powered by <strong><a href="http://wordpress.org/plugins/tsp-easy-dev/">TSP Easy Dev</a></strong>.
 Author: 		The Software People
 Author URI: 	http://www.thesoftwarepeople.com/
-Version: 		1.0.0
+Version: 		1.0.1
 Text Domain: 	tspan
 Copyright: 		Copyright © 2013 The Software People, LLC (www.thesoftwarepeople.com). All rights reserved
 License: 		APACHE v2.0 (http://www.apache.org/licenses/LICENSE-2.0)

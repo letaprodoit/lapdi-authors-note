@@ -1,4 +1,4 @@
-<div class="tsp_authors_note">
+<div id="style{$style}" class="tsp_authors_note">
     {if $title}<div class="title">{$title}</div>{/if}
     <div class="content">       
        {if $show_pic == 'Y'}

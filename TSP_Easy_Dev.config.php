@@ -82,6 +82,15 @@ $easy_dev_settings['plugin_options']		= array(
 			'value' 		=> 'N',
 			'options'		=> array ('Yes' => 'Y', 'No' => 'N'),
 		),			
+		'style' 		=> array( 
+			'type' 			=> 'SELECT', 
+			'label' 		=> 'Note Style:', 
+			'value' 		=> 0,
+			'options'		=> array( 
+									'No Style/Custom'	=> 0,
+									'Light'				=> 1,
+									'Dark'				=> 2),
+		),		
 		'layout' 		=> array( 
 			'type' 			=> 'SELECT', 
 			'label' 		=> 'Choose the layout:', 

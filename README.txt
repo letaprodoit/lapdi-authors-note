@@ -4,7 +4,7 @@ Donate link: http://www.thesoftwarepeople.com/software/plugins/wordpress/authors
 Tags: author, note, after-thought, afterword, the software people
 Requires at least: 3.5.1
 Tested up to: 3.6
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: Apache v2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -38,7 +38,7 @@ Requires the installation and activation of [TSP Easy Dev Latest Version](http:/
 Add a `Author's Note` to posts and pages by using a shortcode inside your text or evaluated from within your theme. You may override page/post `Author's Note` options with shortcode attributes defined on the plugin's settings page.
 
 * `[tsp-authors-note]Did I really write this?[/tsp-authors-note]` - Will display a authors note with the default options defined in the plugin's settings page.
-* `[tsp-authors-note title="On After-Thought" show_bio=Y show_pic=Y show_name=Y show_website=Y show_links=Y]Did I really write this?[/tsp-authors-note]` - Will override attributes defined on the plugin's settings page.
+* `[tsp-authors-note title="On After-Thought" show_bio=Y show_pic=Y show_name=Y style=1 show_website=Y show_links=Y]Did I really write this?[/tsp-authors-note]` - Will override attributes defined on the plugin's settings page.
 
 == Installation ==
 
@@ -66,7 +66,13 @@ Add a `Author's Note` to posts and pages by using a shortcode inside your text o
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Enhancement. Added Styles to the note boxes
+
+= 1.0.0 =
 * Launch
 
 == Upgrade notice ==
+
+= 1.0.1 =
+Enhancement. Added Styles to the note boxes
