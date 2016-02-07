@@ -3,8 +3,8 @@ Contributors: thesoftwarepeople,sharrondenice
 Donate link: http://www.thesoftwarepeople.com/software/plugins/wordpress/authors-note-for-wordpress.html
 Tags: author, note, after-thought, afterword, the software people
 Requires at least: 3.5.1
-Tested up to: 3.6
-Stable tag: 1.0.1
+Tested up to: 4.4.2
+Stable tag: 1.0.2
 License: Apache v2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -68,13 +68,19 @@ BEFORE YOU BEGIN: Requires the installation and activation of [TSP Easy Dev Late
 
 == Changelog ==
 
+= 1.0.2 =
+* Enhancement: Improved settings UI
+
 = 1.0.1 =
-* Enhancement. Added Styles to the note boxes
+* Enhancement: Added Styles to the note boxes
 
 = 1.0.0 =
 * Launch
 
 == Upgrade notice ==
 
+= 1.0.2 =
+Enhancement: Improved settings UI
+
 = 1.0.1 =
-Enhancement. Added Styles to the note boxes
+Enhancement: Added Styles to the note boxes

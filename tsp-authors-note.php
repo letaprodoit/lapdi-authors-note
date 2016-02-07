@@ -5,9 +5,9 @@ Plugin URI: 	http://www.thesoftwarepeople.com/software/plugins/wordpress/authors
 Description: 	Author's Note allows you to <strong>add author's notes and afterthoughts</strong> to your blog posts and pages. Powered by <strong><a href="http://wordpress.org/plugins/tsp-easy-dev/">TSP Easy Dev</a></strong>.
 Author: 		The Software People
 Author URI: 	http://www.thesoftwarepeople.com/
-Version: 		1.0.1
+Version: 		1.0.2
 Text Domain: 	tspan
-Copyright: 		Copyright © 2013 The Software People, LLC (www.thesoftwarepeople.com). All rights reserved
+Copyright: 		Copyright ï¿½ 2013 The Software People, LLC (www.thesoftwarepeople.com). All rights reserved
 License: 		APACHE v2.0 (http://www.apache.org/licenses/LICENSE-2.0)
 */
 
@@ -71,8 +71,13 @@ $authors_note->uses_shortcodes 				= true;
 // Queue User Styles
 $authors_note->add_css( TSPAN_PLUGIN_URL . TSPAN_PLUGIN_NAME . '.css' );
 
+// Queue Admin Scripts
+$authors_note->add_script( TSP_EASY_DEV_ASSETS_JS_URL . 'admin-script.js',  array('jquery','jquery-ui-tabs'), true );
+
 // Queue Admin Styles
-$authors_note->add_css( TSPAN_PLUGIN_URL . 'css' . DS. 'admin-style.css', true );
+$authors_note->add_css( TSP_EASY_DEV_ASSETS_CSS_URL . 'font-awesome.min.css', true );
+$authors_note->add_css( TSP_EASY_DEV_ASSETS_CSS_URL . 'admin-style.css', true );
+$authors_note->add_css( TSP_EASY_DEV_ASSETS_CSS_URL . 'style.css', true );
 
 $authors_note->set_plugin_icon( TSPAN_PLUGIN_URL . 'images' . DS . 'tsp_icon_16.png' );
 
