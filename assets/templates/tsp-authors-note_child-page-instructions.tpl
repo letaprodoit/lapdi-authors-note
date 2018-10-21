@@ -2,6 +2,7 @@
 <p>However, if you wish to add different options to the <code>[tsp-authors-note]</code> shortcode please use the following settings:</p>
 <ul style="list-style-type:square; padding-left: 30px;">
 	<li>Title: <code>title="Title of Posts"</code></li>
+    <li>Note: <code>note="Note from the author goes here."</code></li>
     <li>Show Name: <code>show_name="N"</code>(Options: Y, N)</li>
     <li>Show Pic: <code>show_pic="Y"</code>(Options: Y, N)</li>
 	<li>Show Bio: <code>show_bio="Y"</code>(Options: Y, N)</li>
@@ -19,4 +20,8 @@
 </ul>
 <hr>
 A shortcode with all the options will look like the following:<br><br>
+<code>[tsp-authors-note title="On After-Thought" note="<strong>I was only 18 years old when I wrote this</strong>" show_name="Y" show_pic="Y" show_bio="Y" show_website="N" show_social_links="N" style="1" layout="0" thumb_size="80" before_title="" after_title=""]</code>
+<br>
+<strong>OR</strong>
+<br>
 <code>[tsp-authors-note title="On After-Thought" show_name="Y" show_pic="Y" show_bio="Y" show_website="N" show_social_links="N" style="1" layout="0" thumb_size="80" before_title="" after_title=""]<strong>I was only 18 years old when I wrote this</strong>[/tsp-authors-note]</code>

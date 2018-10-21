@@ -21,9 +21,9 @@
             {if $show_bio == 'Y'}
                 <div class="bio">
                     {if $show_name == 'Y'}
-                        <h3>{$name}'s Bio</h3>
+                        <h5>{$name}'s Bio</h5>
                     {else}
-                        <h3>Author's Bio</h3>
+                        <h5>Author's Bio</h5>
                     {/if}
                     {$bio}
                  </div>

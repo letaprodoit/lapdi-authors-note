@@ -160,7 +160,7 @@
 
             global $wpdb, $post;
 
-            if (empty($fields['shortcode_content']))
+            if (empty($fields['shortcode_content']) && empty($fields['note']))
             {
                 $fields['shortcode_content'] = null;
 
@@ -176,12 +176,13 @@
                 }//endif
             }//end if
 
+
             if (!empty($fields['title']))
             {
                 $title = $fields['before_title'] . $fields['title'] . $fields['after_title'];
             }//end else
 
-            $author_ID 		= $post->post_author;
+            $author_ID 		= !empty($post) ? $post->post_author : '';
             $author 		= get_userdata( $author_ID ); //user data
             $gravatar		= null;
             $name 			= null;
@@ -189,24 +190,24 @@
             $website		= null;
             $links			= array();
 
-            if ($fields['show_name'] == 'Y')
+            if ($fields['show_name'] == 'Y' && !empty($author))
             {
                 $name 		= $author->display_name;
             }//end if
-            if ($fields['show_pic'] == 'Y')
+            if ($fields['show_pic'] == 'Y' && !empty($author))
             {
                 $gravatar_type = get_option('wpu_gravatar_type');
                 $gravatar = get_avatar($author->user_email, $fields['thumb_size'], $gravatar_type, $name); //get avatar
             }//end if
-            if ($fields['show_bio'] == 'Y')
+            if ($fields['show_bio'] == 'Y' && !empty($author_ID))
             {
                 $bio 		= get_the_author_meta( 'description', $author_ID );
             }//end if
-            if ($fields['show_website'] == 'Y')
+            if ($fields['show_website'] == 'Y' && !empty($author_ID))
             {
                 $website	= get_the_author_meta( 'user_url', $author_ID );
             }//end if
-            if ($fields['show_links'] == 'Y')
+            if ($fields['show_links'] == 'Y' && !empty($author_ID))
             {
                 $links['yim'] 		= get_the_author_meta( 'yim', $author_ID );
                 $links['aim'] 		= get_the_author_meta( 'aim', $author_ID );
@@ -229,7 +230,7 @@
             $smarty->assign("bio",  	$bio, true);
             $smarty->assign("website",	$website, true);
             $smarty->assign("links",	$links, true);
-            $smarty->assign("note", 	html_entity_decode($fields['shortcode_content']), true);
+            $smarty->assign("note", 	html_entity_decode($fields['note'] . $fields['shortcode_content']), true);
 
             $return_HTML .= $smarty->fetch( $this->options->get_value('name') . '_layout'.$fields['layout'].'.tpl' );
 

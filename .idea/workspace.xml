@@ -2,27 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d46d886-cd08-43db-8522-59a0d7858ab3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/SharronDenice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSES" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TSP_Easy_Dev.config.php" beforeDir="false" afterPath="$PROJECT_DIR$/TSP_Easy_Dev.config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TSP_Easy_Dev.extend.php" beforeDir="false" afterPath="$PROJECT_DIR$/TSP_Easy_Dev.extend.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/aim.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/aim.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jabber.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/jabber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tsp_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tsp_icon_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tsp_icon_25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/yim.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/yim.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/default_form.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tsp-authors-note_layout0.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/assets/templates/tsp-authors-note_layout0.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tsp-authors-note_shortcode_settings.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsp-authors-note.css" beforeDir="false" afterPath="$PROJECT_DIR$/tsp-authors-note.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsp-authors-note.php" beforeDir="false" afterPath="$PROJECT_DIR$/tsp-authors-note.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/templates/tsp-authors-note_layout0.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/assets/templates/tsp-authors-note_layout0.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/TSP_Easy_Dev.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/TSP_Easy_Dev.extend.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/assets/images/aim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/assets/images/jabber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/assets/images/yim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/assets/templates/tsp-authors-note_child-page-instructions.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/assets/templates/tsp-authors-note_layout0.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/tsp-authors-note.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp-authors-note/tsp-authors-note.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,23 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TSP_Easy_Dev.config.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TSP_Easy_Dev.config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TSP_Easy_Dev.config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="40" selection-start-column="40" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tsp-authors-note.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tsp-authors-note.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="30" />
-              <folding>
-                <element signature="e#10#682#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="194">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -57,12 +44,30 @@
       <file leaf-file-name="TSP_Easy_Dev.extend.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TSP_Easy_Dev.extend.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="135" column="44" selection-start-line="135" selection-start-column="44" selection-end-line="135" selection-end-column="44" />
+            <state relative-caret-position="323">
+              <caret line="191" selection-start-line="191" selection-end-line="191" />
               <folding>
-                <element signature="e#706#2876#0#PHP" expanded="true" />
-                <element signature="e#5385#8667#0#PHP" expanded="true" />
+                <element signature="e#14#393#0#PHP" expanded="true" />
+                <element signature="e#4468#4938#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsp-authors-note_layout0.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/templates/tsp-authors-note_layout0.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsp-authors-note_child-page-instructions.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -106,12 +111,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl" />
         <option value="$PROJECT_DIR$/tsp-authors-note.php" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/tsp-authors-note.css" />
+        <option value="$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl" />
         <option value="$PROJECT_DIR$/TSP_Easy_Dev.config.php" />
         <option value="$PROJECT_DIR$/TSP_Easy_Dev.extend.php" />
+        <option value="$PROJECT_DIR$/assets/templates/tsp-authors-note_layout0.tpl" />
       </list>
     </option>
   </component>
@@ -150,6 +156,17 @@
             <path>
               <item name="Plugins: Authors Note" type="b2602c69:ProjectViewProjectNode" />
               <item name="trunk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Plugins: Authors Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Plugins: Authors Note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trunk" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,12 +219,12 @@
       <workItem from="1540117123150" duration="173000" />
       <workItem from="1540118698974" duration="58000" />
       <workItem from="1540119345223" duration="20000" />
-      <workItem from="1540119432095" duration="1256000" />
+      <workItem from="1540119432095" duration="4265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7315000" />
+    <option name="totallyTimeSpent" value="10324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,11 +242,12 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936978" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.32936978" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936978" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936978" />
       <window_info anchor="right" id="Remote Host" order="3" weight="0.32991013" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26893452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26893452" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.32936978" />
       <window_info anchor="right" id="Database" order="3" />
@@ -243,7 +261,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.32936978" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,8 +288,8 @@
         <state relative-caret-position="1785">
           <caret line="134" column="54" selection-start-line="134" selection-start-column="54" selection-end-line="134" selection-end-column="54" />
           <folding>
-            <element signature="e#706#2876#0#PHP" expanded="true" />
-            <element signature="e#5385#8667#0#PHP" expanded="true" />
+            <element signature="e#14#393#0#PHP" expanded="true" />
+            <element signature="e#4468#4938#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -292,8 +309,8 @@
         <state relative-caret-position="1935">
           <caret line="144" column="78" lean-forward="true" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="78" />
           <folding>
-            <element signature="e#706#2876#0#PHP" expanded="true" />
-            <element signature="e#5385#8667#0#PHP" expanded="true" />
+            <element signature="e#14#393#0#PHP" expanded="true" />
+            <element signature="e#4468#4938#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -330,8 +347,8 @@
         <state relative-caret-position="1995">
           <caret line="148" selection-start-line="148" selection-end-line="148" />
           <folding>
-            <element signature="e#706#2876#0#PHP" expanded="true" />
-            <element signature="e#5385#8667#0#PHP" expanded="true" />
+            <element signature="e#14#393#0#PHP" expanded="true" />
+            <element signature="e#4468#4938#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -351,13 +368,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/templates/default_form.tpl" />
-    <entry file="file://$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
@@ -382,17 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TSP_Easy_Dev.extend.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="135" column="44" selection-start-line="135" selection-start-column="44" selection-end-line="135" selection-end-column="44" />
-          <folding>
-            <element signature="e#706#2876#0#PHP" expanded="true" />
-            <element signature="e#5385#8667#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsp-authors-note.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -403,10 +402,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/templates/tsp-authors-note_child-page-instructions.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TSP_Easy_Dev.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        <state relative-caret-position="194">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TSP_Easy_Dev.extend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+          <folding>
+            <element signature="e#14#393#0#PHP" expanded="true" />
+            <element signature="e#4468#4938#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/templates/tsp-authors-note_layout0.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
         </state>
       </provider>
     </entry>

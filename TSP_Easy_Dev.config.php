@@ -48,6 +48,12 @@
                 'label' 		=> 'Title',
                 'value' 		=> 'LAPDI Authors Note',
             ),
+            'note'          => array(
+                'type' 			=> 'TEXTAREA',
+                'label' 		=> 'Note',
+                'value' 		=> '',
+                'html'          => true
+            ),
             'show_bio' 	=> array(
                 'type' 			=> 'SELECT',
                 'label' 		=> 'Show Bio',

@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="60428044-db86-49f6-af63-5dae9251f508" name="Wordpress on localhost" url="http://localhost:3000">
-        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$" accessType="MOUNT" />
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites/_testsites/wordpress_latest/wp-content/plugins" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
