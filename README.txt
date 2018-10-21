@@ -1,6 +1,6 @@
 === LAPDI Authors Note ===
 Contributors: letaprodoit,sharrondenice
-Donate link: http://www.letaprodoit.com/software/plugins/wordpress/authors-note-for-wordpress.html
+Donate link: https://www.letaprodoit.com/apps/plugins/wordpress/authors-note-for-wordpress
 Tags: author, note, after-thought, afterword, the software people
 Requires at least: 3.5.1
 Tested up to: 5.0.0
