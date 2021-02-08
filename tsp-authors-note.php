@@ -1,13 +1,13 @@
 <?php
     /*
     Plugin Name: 	LAPDI Authors Note
-    Plugin URI: 	http://www.letaprodoit.com/software/plugins/wordpress/authors-note-for-wordpress.html
+    Plugin URI: 	https://letaprodoit.com/software/plugins/wordpress/authors-note-for-wordpress.html
     Description: 	Author's Note allows you to <strong>add author's notes and afterthoughts</strong> to your blog posts and pages. Powered by <strong><a href="http://wordpress.org/plugins/tsp-easy-dev/">LAPDI Easy Dev</a></strong>.
     Author: 		Let A Pro Do IT!
-    Author URI: 	http://www.letaprodoit.com/
-    Version: 		1.0.3
+    Author URI: 	https://letaprodoit.com/
+    Version: 		1.0.4
     Text Domain: 	tspan
-    Copyright: 		Copyright � 2013 Let A Pro Do IT!, LLC (www.letaprodoit.com). All rights reserved
+    Copyright: 		Copyright � 2021 Let A Pro Do IT!, LLC (www.letaprodoit.com). All rights reserved
     License: 		APACHE v2.0 (http://www.apache.org/licenses/LICENSE-2.0)
     */
 

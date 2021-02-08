@@ -1,10 +1,10 @@
 === LAPDI Authors Note ===
 Contributors: letaprodoit,sharrondenice
-Donate link: https://www.letaprodoit.com/apps/plugins/wordpress/authors-note-for-wordpress
+Donate link: https://letaprodoit.com/apps/plugins/wordpress/authors-note-for-wordpress
 Tags: author, note, after-thought, afterword, the software people
 Requires at least: 3.5.1
-Tested up to: 5.0.0
-Stable tag: 1.0.3
+Tested up to: 5.6.1
+Stable tag: 1.0.4
 License: Apache v2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0
 
@@ -68,6 +68,9 @@ BEFORE YOU BEGIN: Requires the installation and activation of [LAPDI Easy Dev La
 
 == Changelog ==
 
+= 1.0.4 =
+* Maintenance
+
 = 1.0.3 =
 * Enhancement. Requires v2.0.0 of LAPDI Easy Dev
 
@@ -81,6 +84,9 @@ BEFORE YOU BEGIN: Requires the installation and activation of [LAPDI Easy Dev La
 * Launch
 
 == Upgrade notice ==
+
+= 1.0.4 =
+* Maintenance
 
 = 1.0.3 =
 * Enhancement. Requires v2.0.0 of LAPDI Easy Dev
